@@ -6,7 +6,7 @@ ghrequest
 [![Build Status](https://travis-ci.org/issuetrackapp/ghrequest.svg?branch=master)](https://travis-ci.org/issuetrackapp/ghrequest)
 [![Build status](https://ci.appveyor.com/api/projects/status/x55pty4ljly9pok3?svg=true)](https://ci.appveyor.com/project/jviotti/ghrequest)
 
-HTTP client for the GitHub API with cache support to get the most of your rate limit.
+GitHub API HTTP client with cache support to get the most of your rate limit.
 
 Description
 -----------
