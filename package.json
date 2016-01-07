@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "HTTP client for the GitHub API with cache support to get the most of your rate limit",
   "main": "lib/ghrequest.js",
-  "homepage": "https://github.com/issuetrackapp/ghrequest",
+  "homepage": "https://github.com/jviotti/ghrequest",
   "repository": {
     "type": "git",
-    "url": "git://github.com/issuetrackapp/ghrequest.git"
+    "url": "git://github.com/jviotti/ghrequest.git"
   },
   "directories": {
     "test": "tests"
