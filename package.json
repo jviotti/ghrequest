@@ -40,6 +40,7 @@
     "async": "^1.4.2",
     "bluebird": "^2.10.1",
     "lodash": "^3.10.1",
+    "node-storage": "0.0.7",
     "request": "^2.63.0"
   }
 }
